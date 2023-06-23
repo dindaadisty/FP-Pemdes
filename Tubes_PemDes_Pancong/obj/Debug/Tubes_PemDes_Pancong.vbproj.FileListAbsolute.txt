@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\Tubes_PemDes_Pancong\Tubes_PemDes_Pancong\bin\Debug\Tubes_PemDes_Pancong.exe
+C:\Users\Lenovo\source\repos\Tubes_PemDes_Pancong\Tubes_PemDes_Pancong\bin\Debug\Tubes_PemDes_Pancong.pdb
+C:\Users\Lenovo\source\repos\Tubes_PemDes_Pancong\Tubes_PemDes_Pancong\bin\Debug\Tubes_PemDes_Pancong.xml
+C:\Users\Lenovo\source\repos\Tubes_PemDes_Pancong\Tubes_PemDes_Pancong\obj\Debug\Tubes_PemDes_Pancong.vbproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Tubes_PemDes_Pancong\Tubes_PemDes_Pancong\obj\Debug\Tubes_PemDes_Pancong.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\Tubes_PemDes_Pancong\Tubes_PemDes_Pancong\obj\Debug\Tubes_PemDes_Pancong.Resources.resources
+C:\Users\Lenovo\source\repos\Tubes_PemDes_Pancong\Tubes_PemDes_Pancong\obj\Debug\Tubes_PemDes_Pancong.vbproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Tubes_PemDes_Pancong\Tubes_PemDes_Pancong\obj\Debug\Tubes_PemDes_Pancong.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Tubes_PemDes_Pancong\Tubes_PemDes_Pancong\obj\Debug\Tubes_PemDes_Pancong.exe
+C:\Users\Lenovo\source\repos\Tubes_PemDes_Pancong\Tubes_PemDes_Pancong\obj\Debug\Tubes_PemDes_Pancong.xml
+C:\Users\Lenovo\source\repos\Tubes_PemDes_Pancong\Tubes_PemDes_Pancong\obj\Debug\Tubes_PemDes_Pancong.pdb
+C:\Users\Lenovo\source\repos\Tubes_PemDes_Pancong\Tubes_PemDes_Pancong\obj\Debug\Tubes_PemDes_Pancong.Login.resources
+C:\Users\Lenovo\source\repos\Tubes_PemDes_Pancong\Tubes_PemDes_Pancong\obj\Debug\Tubes_PemDes_Pancong.Kasir.resources
+C:\Users\Lenovo\source\repos\Tubes_PemDes_Pancong\Tubes_PemDes_Pancong\obj\Debug\Tubes_PemDes_Pancong.MenuPancong.resources
+C:\Users\Lenovo\source\repos\Tubes_PemDes_Pancong\Tubes_PemDes_Pancong\obj\Debug\Tubes_PemDes_Pancong.RiwayatTransaksi.resources
+C:\Users\Lenovo\source\repos\Tubes_PemDes_Pancong\Tubes_PemDes_Pancong\obj\Debug\Tubes_PemDes_Pancong.MenuUtama.resources
